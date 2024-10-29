@@ -3,7 +3,7 @@
 A robust onsite employee management application designed for organizations to track and manage employee check-ins, check-outs, and monitor real-time location using **Flutter**, **GetX**, and **Firebase**.
 
 This app includes two distinct interfaces:
-- **Employee Interface**: For employees to check in and out, with location tracking and attendance history.
+- **Employee Interface**: For employees to check in and out, with location tracking.
 - **Supervisor Interface**: For supervisors to view and manage employee attendance and location data.
 
 ---
@@ -17,7 +17,6 @@ This app includes two distinct interfaces:
 
 ### 👥 Employee Role
 - **Location-Based Check-In/Check-Out**: Track employee's entry and exit times, linked with real-time location.
-- **Attendance History**: View past attendance records and check-in/check-out details.
 - **Simple and Intuitive Interface**: User-friendly layout for smooth navigation.
 
 ### 🔍 Supervisor Role
@@ -48,5 +47,5 @@ This app includes two distinct interfaces:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/employee-management-app.git
+   git clone https://github.com/Jaydeepsharma93/employee_management_app.git
    cd employee-management-app
