@@ -9,7 +9,25 @@ This app includes two distinct interfaces:
 ---
 
 ## 📱 Screenshots
-<!-- Add screenshots for key screens like Login, Employee Home, Supervisor Dashboard, etc. -->
+
+### SignIn/SignUp
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+<img src="" width = 32%>
+
+
+
+
 
 ---
 
